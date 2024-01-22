@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Grocery List for Family</title>
+</head>
+
+<body>
+  <h1>Grocery List</h1>
+  <h2>Daniel</h2>
+  <ul>
+    <li>Eggs (30 per tray) - RM13.90</li>
+    <li>Chicken - RM 65.90</li>
+  </ul>
+
+  <h2>Mummy</h2>
+  <ul>
+    <li>Perfume - RM29.90</li>
+    <li>Vegetable - RM100</li>
+  </ul>
+
+  <h2>Brother</h2>
+  <ul>
+    <li>Car Sponge - RM 20.90</li>
+    <li>Snacks - RM10.90</li>
+  </ul>
+
+  <h2>Cat Stuff</h2>
+  <ul>
+    <li>Litter Box Sand - RM49.90</li>
+    <li>Cat Dry & Wet Food - RM30.90</li>
+  </ul>
+</body>
+
+</html>
